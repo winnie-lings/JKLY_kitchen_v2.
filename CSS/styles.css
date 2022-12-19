@@ -1,0 +1,87 @@
+head {
+  margin: 0;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Inter Tight', sans-serif;
+}
+
+p {
+  text-align: center;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #93bdbd;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  /*font-family: 'Merriweather', serif;*/
+  font-family: 'Sacramento', cursive;
+  font-weight: bold;
+  /*font-size: 100% or 1em = 16px
+  padding?px*/
+  font-size: 5.625rem
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.top-container {
+  background-color: #E3FDFD;
+  margin: auto;
+  text-align: center;
+
+
+  /*position: absolute;
+  position: relative;
+  position: fixed;
+  left: 30px
+  display: inline-block*/
+}
+
+.middle-container {
+  background-color: ;
+
+
+}
+
+.bottom-container {
+  background-color:;
+  position: relative;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color:GREY;
+  border-width: 5px;
+  width: 30%;
+  margin 10 auto 10 auto;
+}
+
+/********* CLASS SELECTORS - can be used for img tags *********/
+.circular {
+  border-radius: 100%;
+}
+
+
+/********* ID SELECTORS *********/
+#Appertizers_title {
+  color: #256D85;
+}
